@@ -1,5 +1,4 @@
 ### Samuel Kahessay
-#### Shinin'.
 
 - 🌱 I’m currently learning computational sociology, architecture, performance science, web 3.0, and blockchain.
 - 📫 How to reach me:
