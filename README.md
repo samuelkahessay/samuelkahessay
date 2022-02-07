@@ -1,6 +1,6 @@
 ### Hey! I'm Sam.
 
-- 🚀 I’m currently learning computational sociology, architecture, performance science, web 3.0, and decentralized finance (smart contract and blockchain development).
+- 🚀 I’m currently learning computational sociology, architecture, performance science, web3, and decentralized finance (smart contract and blockchain development).
 - 📫 How to reach me:
   - Twitter: [@samuelkahessay](https://twitter.com/samuelkahessay).
   - LinkedIn: [/in/samuelkahessay](https://linkedin.com/in/samuelkahessay).
