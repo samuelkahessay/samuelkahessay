@@ -1,4 +1,4 @@
-### Hey! I'm Sam.
+### Hey! I'm Sam and I'm currently locked out of all my other accounts; anything urgent e-mail me at skahessa [at] uwo [dot] ca.
 
 - 🚀 I’m currently learning computational sociology, architecture, performance science, web3, and decentralized finance; more specfically, smart contract development.
 - 📫 How to reach me:
