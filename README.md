@@ -1,15 +1,7 @@
-# Samuel Kahessay
+Full-stack software developer in Calgary, AB. I design systems, ship products, and optimize relentlessly.
 
-[skahessay.dev](https://skahessay.dev) · [LinkedIn](https://linkedin.com/in/samuelkahessay)
+Currently building at **Upzoids**, React/TypeScript platform serving 110,000+ residents. Previously: **Amazon** (Alexa) · **ATB Financial** (Data Science)
 
-
-Full-stack software developer in Calgary, AB.
-
-I design systems, ship products, and optimize relentlessly.
-
-Currently building at **Upzoids** — React/TypeScript platform serving 110,000+ residents.
-
-Previously: **Amazon** (Alexa) · **ATB Financial** (Data Science)
 
 ---
 
