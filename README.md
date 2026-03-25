@@ -7,8 +7,7 @@ Currently building at **Upzoids**, React/TypeScript platform serving 110,000+ re
 
 ### Projects
 
-**[prd-to-prod](https://prd-to-prod.azurewebsites.net)** — AI-native software delivery loop. 60+ PRs merged inside a policy-bounded execution lane.
-  code. | [gh-aw](https://github.github.com/gh-aw/) · GitHub Actions · Azure
+**[prd-to-prod](https://prdtoprod.com)** — AI-native software delivery pipeline. | [gh-aw](https://github.github.com/gh-aw/) · GitHub Actions
 
 **[Sonora](https://apps.apple.com/ca/app/sonora/id6751448468)** — AI voice memo app. Concept to App Store in 18 days. | Swift · SwiftUI · OpenAI Whisper
 
