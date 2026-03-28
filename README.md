@@ -1,7 +1,6 @@
 Full-stack software developer in Calgary, AB. I design systems, ship products, and optimize relentlessly.
 
-Currently building at **Upzoids**, React/TypeScript platform serving 110,000+ residents. Previously: **Amazon** (Alexa) · **ATB Financial** (Data Science)
-
+Previously: building a smart city React/TypeScript platform serving 110,000+ residents, **Amazon** (Alexa) · **ATB Financial** (Data Science)
 
 ---
 
