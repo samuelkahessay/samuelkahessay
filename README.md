@@ -1,4 +1,4 @@
-Full-stack software developer in Calgary, AB. I design systems, ship products, and optimize relentlessly.
+Agentic software developer at Convverge in Calgary, AB. I design systems, ship products, and optimize relentlessly.
 
 Previously: building a smart city React/TypeScript platform serving 110,000+ residents, **Amazon** (Alexa) · **ATB Financial** (Data Science)
 
